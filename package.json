@@ -1,8 +1,9 @@
 {
   "name": "git-json-intellimerge",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Intelligent JSON git merge driver",
   "main": "index.js",
+  "bin": "bin/cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
